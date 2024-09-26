@@ -32,7 +32,8 @@ Components
 	Graduates can log in to update their personal information and view past academic records.
 ________________________________________
 Technologies Used
-•	Database: The system supports any DBMS available to the project team.
-•	Web Interface: Interactive web interface for user interactions (application submission, status checks, course registration).
-•	Backend: Automation of workflows and decision processes for faculty and administration.
+
+	Database: The system supports any DBMS available to the project team.
+	Web Interface: Interactive web interface for user interactions (application submission, status checks, course registration).
+	Backend: Automation of workflows and decision processes for faculty and administration.
 
