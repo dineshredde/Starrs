@@ -1,5 +1,6 @@
 STARRS - Student Admissions Records and Registration System
-Project Overview
+Project 
+Overview
 The Student Admissions Records and Registration System (STARRS) is designed to streamline the online admissions, registration, and graduation clearance process for graduate students. The system automates several manual workflows for easier management of student data at DataBase University (DBU), from application submission to graduation clearance.
 ________________________________________
 Key Features
