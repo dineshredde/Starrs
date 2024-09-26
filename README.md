@@ -33,7 +33,10 @@ Components
 ________________________________________
 Technologies Used
 
-	Database: The system supports any DBMS available to the project team.
-	Web Interface: Interactive web interface for user interactions (application submission, status checks, course registration).
-	Backend: Automation of workflows and decision processes for faculty and administration.
+1.Database: The system supports any DBMS available to the project team.
+
+2.Web Interface: Interactive web interface for user interactions (application submission, status checks, course registration).
+
+3.Backend: Automation of workflows and decision processes for faculty and administration.
+
 
